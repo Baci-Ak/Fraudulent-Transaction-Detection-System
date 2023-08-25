@@ -10,7 +10,7 @@ Considering the enormous challenges posed by online transactions, you have been 
 For this purpose, you are provided with datasets consisting of fraudulent and non-fraudulent purchasing transactions. Specifically, you should design and implement the system by analysing the problem of fraud detection systems, designing, and implementing a solution based on the concepts and principles python objects.
 
 ## 📦 Datasets
-In the folder (transactions) of this repository, there are three datasets, namely: the transaction.txt, fraud- description.txt, and description.txt.
+In the folder (transactions_datasets) of this repository, there are three datasets, namely: the transaction.txt, fraud- description.txt, and description.txt.
  The first dataset (description.txt) contains the description of genuine transactions. The second dataset (fraud-description.txt) contains the description of fraudulent transactions. The last dataset (transaction.txt) contains the actual transactions (10,000). The transaction dataset contains the description of the transactions, the amount of the transactions and the locations of the transactions. The locations are not real location to avoid tracing any transaction to anyone. The locations are just Euclidean coordinates in x, and y points. The following are the attributes of the transaction dataset:
 1. The user id
 2. The transaction id
